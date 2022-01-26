@@ -1,9 +1,24 @@
-## Design Patterns with GO
+## *Design Patterns in GO Samples* 
 
-Design Pattern samples in GO
+Design Pattern samples in GO from the course; Udemy Design Patterns in GO by Dmitri Nesteruk
 
-### - Creational
+### *Creational*
 
-### - Behavioral
+* Prototype
+* Singleton
+* Factory
+* Builder
+
+### *Behavioral*
+
+* Chain of Responsibility
+* Command
     
-### -  Structural
+### *Structural*
+
+* Adaptor
+* Bridge
+* Decorator
+* Facade
+* Flyweight
+* Proxy
